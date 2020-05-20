@@ -1,202 +1,199 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
 <modDesc descVersion="47">
-    <author>Edge Gaming / Castiga</author>
-    <translationsby>Castiga</translationsby>
-    <version>1.1.0.0</version>
-    <title><!-- en=English de=German jp=Japanese pl=Polish cz=Czech fr=French es=Spanish ru=Russian it=Italian pt=Portuguese hu=Hungary nl=Netherlands cs=Chinese (Simplified) ct=Chinese (Traditional) br=Brazilian-Portuguese tr=Turkish ro=Romanian kr=Korean -->
-        <en>EDGE Sign</en>
-        <de>EDGE Sign</de>
-        <fr>EDGE Sign</fr>
-        <es>EDGE Sign</es>
-        <ru>EDGE Sign</ru>
-        <pl>EDGE Sign</pl>
-        <it>EDGE Sign</it>
-    </title>
-    <description>
-        <en><![CDATA[This Repository is a Template Repo for our FS 19 mods. It includes the necessary files for an FS19 mod.
+    <author>EDGE Gaming / Castiga</author>
+    <version>2.0.0.0</version>
+    <iconFilename>StrawBarn_icon.dds</iconFilename>
+    <title>
+		<en>Placeable Straw Barn</en>
+		<de>Platzierbare Strohscheune</de>
+		<fr>Placeable Paille Grange</fr>
+        <es>Granero De Paja Colocable</es>
+        <ru>Размещаемый Cоломенный Cарай</ru>
+        <pl>Stajnia Ze Słomą</pl>
+	</title>
+	<description>
 
--All buildings have automatic lighting.
--All Buildings supports "Seasons" and "Courseplay Six".
--All Buildings have FillTypeCategories: Farmsilo (to Support Custom Fruits)
+		<en><![CDATA[Nice and clean barn that works as a selling point for straw, grass, hay & silage. The Building has automatic lighting.
+Selling prices for each product will fluctuate and show up on the PDA.
 
---Technical Info--
+Price: 50.000€
+Size: 18 x 23 Meters
 
-Small Grain Silo:
-Price: 110.000€
-Upkeep: 45€ Daily.
-Size: 14 x 15 Meters.
-Capacity: 100.000 Litre.
-Overloading Speed 2000 Liters Per Second.
-
--Supports "Seasons", "Courseplay Six" & "MaizePlus".
-
--If you find any bugs or got suggestions for improvment, please dont hesitate to contact us on our Github page at https://github.com/FS19-Mods-By-EDGE/
-or Contact EDGEPureGaming on facebook.
+-This selling spot works with courseplay.
 
 Changelog 1.0.0.0:
-- Initial Realease.]]></en>
+- Initial Realease.
+Changelog 1.5.0.0:
+- Added L10N functions and name so it's more understandable for all people, this was prevoisly just in english.
+- Updated the mod with more languages.
+- Created new Decal textures & added shaders to the building.
+- Added node for Interactive Zone Markers. (Warningstripes can now be turned on and off).
+Changelog 2.0.0.0:
+- Updated to support Seasons mod.
+- New Names for all Buildings.]]></en>
 
-<de><![CDATA[Einige Silos für die Lagerung von Korn. Das Paket enthält vier Hofsilos und 6 Siloerweiterungen.
+		<de><![CDATA[Schöne und saubere Scheune, die als Verkaufsstelle für Stroh, Gras, Heu und Silage dient. Das Gebäude verfügt über eine automatische Beleuchtung.
+Die Verkaufspreise für jedes Produkt schwanken und werden auf dem PDA angezeigt.
 
--Alle Gebäude verfügen über eine automatische Beleuchtung.
--Alle Gebäude unterstützen "Seasons" und "Courseplay Six".
--Alle Gebäude haben FillTypeCategories: Farmsilo (zur Unterstützung benutzerdefinierter Früchte)
+Preis: 50.000€
+Größe: 18 x 23 Meter
 
---Technische Information--
-
-Kleines Getreidesilo:
-Preis: 110.000 €
-Unterhalt: 45 € Täglich.
-Größe: 14 x 15 Meter.
-Fassungsvermögen: 100.000 Liter.
-Überladegeschwindigkeit 2000 Liter pro Sekunde.
-
--Unterstützt "Seasons", "Courseplay Six" und "MaizePlus".
-
--Wenn Sie Fehler finden oder Verbesserungsvorschläge haben, zögern Sie bitte nicht, uns auf unserer Github-Seite unter https://github.com/FS19-Mods-By-EDGE/
-zu kontaktieren oder EDGEPureGaming auf Facebook zu kontaktieren.
+-Dieser Verkaufsort funktioniert mit Courseplay.
 
 Änderungsprotokoll 1.0.0.0:
-- Erstveröffentlichung.]]></de>
+- Erstveröffentlichung.
+Änderungsprotokoll 1.5.0.0:
+- Es wurden L10N-Funktionen und -Namen hinzugefügt, damit es für alle verständlicher ist. Dies war bisher nur in Englisch.
+- Der Mod wurde mit mehr Sprachen aktualisiert.
+- Neue Decal-Texturen erstellt und dem Gebäude Shader hinzugefügt
+- Knoten für interaktive Zonenmarkierungen hinzugefügt (Warnstreifen können jetzt ein- und ausgeschaltet werden)
+Änderungsprotokoll 2.0.0.0:
+- Aktualisiert, um den Seasons-Mod zu unterstützen.
+- Neue Namen für alle Gebäude.]]></de>
 
-        <fr><![CDATA[Quelques silos pour stocker votre Grain. Le pack contient 4 silos de ferme et 6 extensions de silo.
+		<fr><![CDATA[Belle et propre grange qui fonctionne comme point de vente pour la paille, l'herbe, le foin et l'ensilage. Le bâtiment dispose d'un éclairage automatique.
+Les prix de vente pour chaque produit fluctueront et apparaîtront sur le PDA.
 
--Tous les bâtiments ont un éclairage automatique.
--Tous les bâtiments prennent en charge "Seasons" et "Courseplay Six".
--Tous les bâtiments ont FillTypeCategories: Farmsilo (pour prendre en charge les fruits personnalisés)
+Prix: 50.000€
+Taille: 18 x 23 Mètres
 
---Info technique--
-
-Silo à petits grains:
-Prix: 110.000 €
-Entretien: 45 € par jour.
-Taille: 14 x 15 mètres.
-Capacité: 100.000 litres.
-Vitesse de surcharge 2000 litres par seconde.
-
--Supporte "Seasons", "Courseplay Six" & "MaizePlus".
-
--Si vous trouvez des bugs ou avez des suggestions d'amélioration, n'hésitez pas à nous contacter sur notre page Github à https://github.com/FS19-Mods-By-EDGE/
-ou Contacter EDGEPureGaming sur facebook.
+-Ce spot de vente fonctionne avec course.
 
 Changer le journal 1.0.0.0:
-- Première version.]]></fr>
+- Première version.
+Changer le journal 1.5.0.0:
+- Ajout des fonctions et du nom de la L10N pour que ce soit plus compréhensible pour tout le monde, c'était avant tout en anglais.
+- Mise à jour du mod avec plus de langues.
+- Création de nouvelles textures de décalques et ajout de shaders au bâtiment
+- Ajout d’un nœud pour les marqueurs de zone interactifs (les bandes d’avertissement peuvent maintenant être activées et désactivées)
+Changer le journal 2.0.0.0:
+- Mis à jour pour supporter le mod de saisons.
+- Nouveaux noms pour tous les bâtiments.]]></fr>
 
-        <es><![CDATA[Algunos silos para almacenar tu grano. El paquete contiene 4 silos de granja y 6 extensiones de silo.
+        <es><![CDATA[Granero bonito y limpio que funciona como un punto de venta de paja, hierba, heno y ensilaje. El edificio cuenta con iluminación automática.
+Los precios de venta de cada producto fluctuarán y aparecerán en el PDA.
 
--Todos los edificios tienen iluminación automática.
--Todos los edificios son compatibles con "Seasons" y "Courseplay Six".
--Todos los edificios tienen FillTypeCategories: Farmsilo (para admitir frutas personalizadas)
+Precio: 50.000 €
+Tamaño: 18 x 23 Metros
 
---Información técnica--
-
-Silo de grano pequeño:
-Precio: 110.000 €
-Mantenimiento: 45 € diarios.
-Tamaño: 14 x 15 metros.
-Capacidad: 100.000 litros.
-Velocidad de sobrecarga de 2000 litros por segundo.
-
--Soporta "Seasons", "Courseplay Six" y "MaizePlus".
-
--Si encuentra algún error u obtiene sugerencias de mejora, no dude en contactarnos en nuestra página de Github en https://github.com/FS19-Mods-By-EDGE/
-o póngase en contacto con EDGEPureGaming en Facebook.
+-Este lugar de venta funciona con el juego del curso.
 
 Registro de cambios 1.0.0.0:
-- Versión inicial.]]></es>
+- Versión inicial.
+Registro de cambios 1.5.0.0:
+- Se agregaron las funciones y el nombre de la L10N, por lo que es más comprensible para todas las personas, esto fue antes en inglés.
+- Actualizado el mod con más idiomas.
+- Se crearon nuevas texturas de calcomanías y se agregaron sombreadores al edificio
+- Nodo agregado para marcadores de zona interactivos (ahora las franjas de advertencia se pueden activar y desactivar)
+Registro de cambios 2.0.0.0:
+- Actualizado para admitir el mod Seasons.
+- Nuevos nombres para todos los edificios.]]></es>
 
-        <ru><![CDATA[Некоторые бункеры для хранения вашего зерна. Пакет содержит 4 бункера фермы и 6 расширений бункера.
+        <ru><![CDATA[Хороший и чистый сарай, который служит торговым залом для соломы, травы, сена и силоса. Здание имеет автоматическое освещение.
+Продажные цены на каждый товар будут колебаться и отображаться на КПК.
 
--Все здания имеют автоматическое освещение.
--Все здания поддерживают "Seasons" и "Courseplay Six".
--Все здания имеют FillTypeCategories: Farmsilo (для поддержки пользовательских фруктов)
+Цена: 50.000 €
+Размер: 18 х 23 Mетра
 
---Техническая информация--
-
-Бункер для мелкого зерна:
-Цена: 110.000 €
-Содержание: 45 € в день.
-Размер: 14 х 15 метров.
-Вместимость: 100.000 л.
-Скорость перегрузки 2000 литров в секунду.
-
--Поддержка "Seasons", "Courseplay Six" и "MaizePlus".
-
--Если вы обнаружите какие-либо ошибки или получите предложения по улучшению, пожалуйста, не стесняйтесь связаться с нами на нашей странице Github по адресу https://github.com/FS19-Mods-By-EDGE/
-или связаться с EDGEPureGaming на Facebook.
+-Это место продажи работает с курсом игры.
 
 Изменения 1.0.0.0:
-- Первый выпуск.]]></ru>
+- Первый выпуск.
+Изменения 1.5.0.0:
+- Добавлены функции и имя L10N, чтобы оно было более понятным для всех, это было сделано только на английском языке.
+- Обновлен мод с большим количеством языков.
+- Созданы новые текстуры Decal и добавлены шейдеры в здание.
+- Добавлен узел для маркеров интерактивной зоны (теперь можно включать и выключать предупреждающие полосы)
+Изменения 2.0.0.0:
+- Обновлено для поддержки мод Seasons.
+- Новые имена для всех зданий.]]></ru>
 
-        <pl><![CDATA[Niektóre silosy do przechowywania zboża. Pakiet zawiera 4 silosy rolnicze i 6 przedłużeń silosów.
+        <pl><![CDATA[Ładna i czysta stodoła, która służy jako punkt sprzedaży słomy, trawy, siana i kiszonki. Budynek ma automatyczne oświetlenie.
+Ceny sprzedaży każdego produktu będą się zmieniać i pojawiać na PDA.
 
--Wszystkie budynki mają automatyczne oświetlenie.
--Wszystkie budynki obsługują „Pory roku” i „Courseplay Six”.
--Wszystkie budynki mają FillTypeCategory: Farmsilo (do obsługi niestandardowych owoców)
+Cena: 50.000 €
+Rozmiar: 18 x 23 Metrów
 
---Informacje techniczne--
-
-Silos o małych ziarnach:
-Cena: 110.000 €
-Utrzymanie: 45 € dziennie.
-Rozmiar: 14 x 15 metrów.
-Pojemność: 100 000 litrów.
-Prędkość przeciążenia 2000 litrów na sekundę.
-
--Obsługuje „Seasons”, „Courseplay Six” i „MaizePlus”.
-
--Jeśli znajdziesz jakieś błędy lub masz sugestie dotyczące ulepszeń, nie wahaj się skontaktować z nami na naszej stronie Github pod adresem https://github.com/FS19-Mods-By-EDGE/
-lub Skontaktuj się z EDGEPureGaming na Facebooku.
+-To miejsce sprzedaży działa z kursem.
 
 Lista zmian 1.0.0.0:
-- Pierwsze wydanie.]]></pl>
-        <it><![CDATA[Alcuni silos per conservare il grano. Il pacchetto contiene 4 silos agricoli e 6 estensioni per silo.
+- Pierwsze wydanie.
+Lista zmian 1.5.0.0:
+- Dodano funkcje i nazwę L10N, więc jest to bardziej zrozumiałe dla wszystkich ludzi, było to głównie po angielsku.
+- Zaktualizowałem mod z większą liczbą języków.
+- Utworzono nowe tekstury naklejek i dodano shadery do budynku
+- Dodano węzeł dla interaktywnych znaczników stref (paski ostrzegawcze można teraz włączać i wyłączać)
+Lista zmian 2.0.0.0:
+- Zaktualizowano w celu obsługi modów Seasons.
+- Nowe nazwy dla wszystkich budynków.]]></pl>
 
--Tutti gli edifici hanno l'illuminazione automatica.
--Tutti gli edifici supportano "Seasons" e "Courseplay Six".
--Tutti gli edifici hanno FillTypeCategories: Farmsilo (per supportare la frutta personalizzata)
-
---Informazioni tecniche--
-
-Silo per cereali piccoli:
-Prezzo: 110.000 €
-Manutenzione: 45 € al giorno.
-Dimensioni: 14 x 15 metri.
-Capacità: 100.000 litri.
-Velocità di sovraccarico 2000 litri al secondo.
-
--Supporta "Stagioni", "Courseplay Six" e "MaizePlus".
-
--Se trovi qualche bug o hai suggerimenti per l'improvvisazione, non esitare a contattarci sulla nostra pagina Github all'indirizzo https://github.com/FS19-Mods-By-EDGE/
-o Contatta EDGEPureGaming su Facebook.
-
-Elenco modifiche 1.0.0.0:
-- Realease iniziale.]]></it>
 	</description>
-    <iconFilename>EdgeSign_Icon.dds</iconFilename>
     <multiplayer supported="true"/>
     <storeItems>
-        <storeItem xmlFilename="data/EdgeSign.xml"/>
+        <storeItem rootNode="placeable" xmlFilename="StrawBarn_SellingSpot.xml"/>
+		<storeItem rootNode="placeable" xmlFilename="StrawBarn_SellingSpot_Dark.xml"/>
+		<storeItem rootNode="placeable" xmlFilename="StrawBarn_SellingSpot_White.xml"/>
     </storeItems>
-	<l10n filenamePrefix="modDesc/modDesc_l10n"/>
+    <l10n>
+        <!-- <text name="typeDesc_StrawBarn_SellingSpot" text="for later use"/> -->
+        <text name="name_StrawBarn_SellingSpot_White">
+            <en>Bailers Barn Deluxe White Edition</en>
+            <de>Verkaufsscheune Deluxe Weiß</de>
+            <fr>Écope Grange Deluxe Édition blanche</fr>
+            <es>Granero Bailer de Lujo Edición Blanca</es>
+            <ru>Черпак Cарай Pоскошный Белое Nздание</ru>
+            <pl>Stodoła Bailersów Luksusowy Biała Edycja</pl>
+        </text>
+        <text name="name_StrawBarn_SellingSpot">
+            <en>Bailers Barn Deluxe</en>
+            <de>Verkaufsscheune Deluxe</de>
+            <fr>Écope Grange Deluxe</fr>
+            <es>Granero Bailer de Lujo</es>
+            <ru>Черпак Иарай Pоскошный</ru>
+            <pl>Stodoła Bailersów Luksusowy</pl>
+        </text>
+        <text name="function_StrawBarn_SellingSpot">
+            <en>Nice and clean barn that works as a selling point for straw, grass, hay and silage. The Building is fitted with automatic lighting inside and outside.</en>
+            <de>Schöne und saubere Scheune, die als Verkaufsstelle für Stroh, Gras, Heu und Silage dient. Das Gebäude ist innen und außen mit einer automatischen Beleuchtung ausgestattet.</de>
+            <fr>Belle et propre grange qui fonctionne comme point de vente pour la paille, l'herbe, le foin et l'ensilage. Le bâtiment est équipé d'un éclairage automatique à l'intérieur et à l'extérieur.</fr>
+            <es>Granero bonito y limpio que funciona como un punto de venta de paja, hierba, heno y ensilaje. El edificio está equipado con iluminación automática interior y exterior.</es>
+            <ru>Хороший и чистый сарай, который служит торговым залом для соломы, травы, сена и силоса. Здание оснащено автоматическим освещением внутри и снаружи.</ru>
+            <pl>Ładna i czysta stodoła, która służy jako punkt sprzedaży słomy, trawy, siana i kiszonki. Budynek jest wyposażony w automatyczne oświetlenie wewnątrz i na zewnątrz.</pl>
+        </text>
+        <text name="name_StrawBarn_SellingSpot_Dark">
+            <en>Bailers Barn Deluxe Black Edition</en>
+            <de>Verkaufsscheune Deluxe Schwarz</de>
+            <fr>Écope Grange Deluxe Edition Noir</fr>
+            <es>Granero Bailer De Lujo Edicion Negra</es>
+            <ru>Черпак Cарай Pоскошный Черное Nздание</ru>
+            <pl>Stodoła bailersów luksusowy Czarna Edycja</pl>
+        </text>
+        <text name="BailersBarnDeluxe">
+            <en>EDGE Bailers Barn Deluxe</en>
+            <de>EDGE Verkaufsscheune Deluxe</de>
+            <fr>EDGE Écope Grange Deluxe</fr>
+            <es>EDGE Achicador Granero de Lujo</es>
+            <ru>EDGE бейлеры Cарай Делюкс</ru>
+            <pl>EDGE Stodoła Bailersów Luksusowy</pl>
+        </text>
+        <text name="BlackBailersBarn">
+            <en>EDGE Black Bailers Barn Deluxe</en>
+            <de>EDGE Verkaufsscheune Deluxe Schwarz</de>
+            <fr>EDGE Écope Grange Deluxe Noir</fr>
+            <es>EDGE Achicador Granero de Lujo Negra</es>
+            <ru>EDGE Черный Cарай Cарай Делюкс</ru>
+            <pl>EDGE Czarny Stodoła Bailersów Luksusowy</pl>
+        </text>
+        <text name="WhiteBailersBarn">
+            <en>EDGE White Bailers Barn Deluxe</en>
+            <de>EDGE Verkaufsscheune Deluxe Weiß</de>
+            <fr>EDGE Blanche Écope Grange Deluxe</fr>
+            <es>EDGE Blanca Achicador Granero de Lujo</es>
+            <ru>EDGE белый Kотелок Cарай Делюкс</ru>
+            <pl>EDGE Biały Stodoła Bailersów Luksusowy</pl>
+        </text>
+    </l10n>
     <brands>
         <brand name="EDGE" title="EDGE Industries" image="store/EDGE_Brand_Logo.dds"/>
     </brands>
-    <!-- <l10n>
-        <text name="name_MultiSellingStation">
-            <en>Multi Selling Station</en>
-            <de>Multi Verkaufsstation</de>
-            <fr>Poste De Vente Multiple</fr>
-            <es>Estación De Venta Múltiple</es>
-            <ru>Мультипродажная станция</ru>
-            <pl>Stacja Sprzedaży</pl>
-        </text>
-    </l10n> -->
-    <credits><![CDATA[
-## Contributors
-- Castiga, EDGE Gaming
-## Translations
-- Castiga
-## Designers
-- Castiga]]></credits>
 </modDesc>
