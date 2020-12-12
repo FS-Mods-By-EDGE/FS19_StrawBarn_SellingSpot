@@ -121,7 +121,7 @@
     </seasons>
     <tipOcclusionUpdateArea sizeX="17.5" sizeZ="23"/>
     <sellingStation stationName="$l10n_BailersBarnDeluxe" appearsOnPDA="true" appearsOnStats="true" storageRadius="0" litersForFullPriceDrop="150000" fullPriceRecoverHours="48" showHotspotText="false">
-        <unloadTrigger exactFillRootNode="4|0|0|1" baleTriggerNode="4|0|0|3" sellTriggerNode="4|0|0|2|2" />
+        <unloadTrigger exactFillRootNode="4|0|0|1" baleTriggerNode="4|0|0|3" sellTriggerNode="4|0|0|2" />
         <fillType name="straw"            priceScale="1" supportsGreatDemand="true" disablePriceDrop="false" />
         <fillType name="dryGrass_windrow" priceScale="1" supportsGreatDemand="true" disablePriceDrop="false" />
         <fillType name="grass_windrow"    priceScale="1" supportsGreatDemand="true" disablePriceDrop="false" />

@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
 <modDesc descVersion="47">
-    <author>EDGE Gaming / Castiga</author>
+    <author>EDGE Gaming</author>
     <version>3.0.0.0</version>
     <iconFilename>StrawBarn_icon.dds</iconFilename>
     <title>
@@ -21,9 +21,6 @@ Size: 18 x 23 Meters
 
 -The Buildings supports "Seasons", "Courseplay Six" & "MaizePlus".
 
--If you find any bugs or got suggestions for improvment, please dont hesitate to contact us on our Github page at https://github.com/FS19-Mods-By-EDGE/
-or Contact EDGEPureGaming on facebook.
-
 Note: If you have it placed on your map you need to buy it again or fix it by changing the info in FarmingSimulator2019/savegame§§/items.xml. (§§ = Savegame number)
 -from: modName="FS19_StrawBarn_SellingSpot" filename="$moddir$FS19_StrawBarn_SellingSpot/StrawBarn_SellingSpot(_Dark,White).xml"
 -to: modName="FS19_StrawBarn_SellingSpot" filename="$moddir$FS19_StrawBarn_SellingSpot/data/StrawBarn_SellingSpot(_Dark,White).xml"
@@ -40,6 +37,7 @@ Changelog 3.0.0.0:
 - Added button for warning stripes, these can now be turned off without using the UI.
 - Added support for some mod Filltypes.
 - Added support for MaizePlus.
+- Added support for Straw Harvest Addon.
 - Made the Building slightly bigger to make it easier with big trailers.
 - It's now possible to sell further from the door, for tippers that unload by raising the trailer.]]></en>
 
@@ -50,9 +48,6 @@ Preis: 50.000€
 Größe: 18 x 23 Meter
 
 -Die Gebäude unterstützen "Seasons", "Courseplay Six" und "MaizePlus".
-
--Wenn Sie Fehler finden oder Verbesserungsvorschläge haben, zögern Sie bitte nicht, uns auf unserer Github-Seite unter https://github.com/FS19-Mods-By-EDGE/
-zu kontaktieren oder EDGEPureGaming auf Facebook zu kontaktieren.
 
 Hinweis: Wenn Sie es auf Ihrer Karte platziert haben, müssen Sie es erneut kaufen oder durch Ändern der Informationen in FarmingSimulator2019/savegame§§/items.xml. (§§ = Savegame-Nummer) reparieren.
 -von: modName="FS19_StrawBarn_SellingSpot" filename="$moddir$FS19_StrawBarn_SellingSpot/StrawBarn_SellingSpot(_Dark,White).xml"
@@ -70,6 +65,7 @@ Hinweis: Wenn Sie es auf Ihrer Karte platziert haben, müssen Sie es erneut kauf
 - Schaltfläche für Warnstreifen hinzugefügt, diese können jetzt ohne Verwendung der Benutzeroberfläche deaktiviert werden.
 - Unterstützung für einige Mod-Fülltypen hinzugefügt.
 - Unterstützung für MaizePlus hinzugefügt.
+- Unterstützung für Strohernte-Addon hinzugefügt.
 - Das Gebäude etwas größer gemacht, um es mit großen Anhängern einfacher zu machen.
 - Es ist jetzt möglich, weiter von der Tür zu verkaufen, für Kipper, die durch Anheben des Anhängers entladen werden.]]></de>
 
@@ -80,9 +76,6 @@ Prix: 50.000€
 Taille: 18 x 23 Mètres
 
 -Les bâtiments prennent en charge "Seasons", "Courseplay Six" et "MaizePlus".
-
--Si vous trouvez des bugs ou avez des suggestions d'amélioration, n'hésitez pas à nous contacter sur notre page Github à https://github.com/FS19-Mods-By-EDGE/
-ou Contacter EDGEPureGaming sur facebook.
 
 Remarque: Si vous l'avez placé sur votre carte, vous devez l'acheter à nouveau ou le corriger en modifiant les informations dans FarmingSimulator2019/savegame§§/items.xml. (§§ = numéro de sauvegarde)
 -de: modName="FS19_StrawBarn_SellingSpot" filename="$moddir$FS19_StrawBarn_SellingSpot/StrawBarn_SellingSpot(_Dark,White).xml"
@@ -100,6 +93,7 @@ Changer le journal 3.0.0.0:
 - Bouton ajouté pour les bandes d'avertissement, celles-ci peuvent maintenant être désactivées sans utiliser l'interface utilisateur.
 - Ajout de la prise en charge de certains mod Filltypes.
 - Ajout de la prise en charge de MaizePlus.
+- Ajout du support pour l'addon de récolte de paille.
 - Rendu le bâtiment légèrement plus grand pour le rendre plus facile avec de grandes remorques.
 - Il est désormais possible de vendre plus loin de la porte, pour les bennes qui se déchargent en soulevant la remorque.]]></fr>
 
@@ -110,9 +104,6 @@ Precio: 50.000 €
 Tamaño: 18 x 23 Metros
 
 -Los edificios son compatibles con "Seasons", "Courseplay Six" y "MaizePlus".
-
--Si encuentra algún error u obtiene sugerencias de mejora, no dude en contactarnos en nuestra página de Github en https://github.com/FS19-Mods-By-EDGE/
-o póngase en contacto con EDGEPureGaming en Facebook.
 
 Nota: Si lo tiene colocado en su mapa, debe comprarlo nuevamente o arreglarlo cambiando la información en FarmingSimulator2019/savegame§§/items.xml. (§§ = número de juego guardado)
 -desde: modName="FS19_StrawBarn_SellingSpot" filename="$moddir$FS19_StrawBarn_SellingSpot/StrawBarn_SellingSpot(_Dark,White).xml"
@@ -130,6 +121,7 @@ Registro de cambios 3.0.0.0:
 - Botón agregado para franjas de advertencia, ahora se pueden desactivar sin usar la interfaz de usuario.
 - Se agregó soporte para algunos tipos de relleno mod.
 - Se agregó soporte para MaizePlus.
+- Se agregó soporte para el complemento de cosecha de paja.
 - Hizo que el edificio sea un poco más grande para que sea más fácil con grandes trailers.
 - Ahora es posible vender más desde la puerta, para volquetes que se descargan levantando el remolque.]]></es>
 
@@ -140,9 +132,6 @@ Registro de cambios 3.0.0.0:
 Размер: 18 х 23 Mетра
 
 - Постройки поддерживает «Seasons», «Courseplay Six» и «MaizePlus».
-
--Если вы обнаружите какие-либо ошибки или получите предложения по улучшению, пожалуйста, не стесняйтесь связаться с нами на нашей странице Github по адресу https://github.com/FS19-Mods-By-EDGE/
-или связаться с EDGEPureGaming на Facebook.
 
 Примечание. Если он размещен на вашей карте, его необходимо купить снова или исправить, изменив информацию в FarmingSimulator2019/savegame§§/items.xml. (§§ = номер сохраненной игры)
 -от: modName="FS19_StrawBarn_SellingSpot" filename="$moddir$FS19_StrawBarn_SellingSpot/StrawBarn_SellingSpot(_Dark,White).xml"
@@ -160,6 +149,7 @@ Registro de cambios 3.0.0.0:
 - Добавлена кнопка для предупреждающих полос, теперь они могут быть отключены без использования пользовательского интерфейса.
 - Добавлена поддержка некоторых модов Filltypes.
 - Добавлена поддержка MaizePlus.
+- Добавлена поддержка аддона для сбора соломы.
 - Сделано здание немного больше, чтобы было легче с большими трейлерами.
 - Теперь возможно продавать дальше от двери, для самосвалов, которые разгружаются, поднимая трейлер.]]></ru>
 
@@ -170,9 +160,6 @@ Cena: 50.000 €
 Rozmiar: 18 x 23 Metrów
 
 - Budynki obsługują „Seasons”, „Courseplay Six” i „MaizePlus”.
-
--Jeśli znajdziesz jakieś błędy lub masz sugestie dotyczące ulepszeń, nie wahaj się skontaktować z nami na naszej stronie Github pod adresem https://github.com/FS19-Mods-By-EDGE/
-lub Skontaktuj się z EDGEPureGaming na Facebooku.
 
 Uwaga: jeśli umieściłeś go na mapie, musisz go kupić ponownie lub naprawić, zmieniając informacje w FarmingSimulator2019/savegame§§/items.xml. (§§ = numer zapisanej gry)
 -od: modName="FS19_StrawBarn_SellingSpot" filename="$moddir$FS19_StrawBarn_SellingSpot/StrawBarn_SellingSpot(_Dark,White).xml"
@@ -190,6 +177,7 @@ Dziennik zmian 3.0.0.0:
 - Dodano przycisk pasków ostrzegawczych, które można teraz wyłączyć bez użycia interfejsu użytkownika.
 - Dodano wsparcie dla niektórych modów Filltypes.
 - Dodano obsługę MaizePlus.
+- Dodano obsługę dodatku do zbioru słomy.
 - Zwiększono nieco budynek, aby był łatwiejszy w przypadku dużych przyczep.
 - Teraz można sprzedawać dalej od drzwi, za wywrotki, które rozładowują się, podnosząc przyczepę.]]></pl>
         <it><![CDATA[Granaio bello e pulito che funge da punto vendita per paglia, erba, fieno e insilato. L'edificio ha illuminazione automatica.
@@ -199,9 +187,6 @@ Prezzo: 50.000 €
 Dimensioni: 18 x 23 metri
 
 -Gli edifici supportano "Seasons", "Courseplay Six" e "MaizePlus".
-
--Se trovi qualche bug o hai suggerimenti per l'improvvisazione, non esitare a contattarci sulla nostra pagina Github all'indirizzo https://github.com/FS19-Mods-By-EDGE/
-o Contatta EDGEPureGaming su Facebook.
 
 Nota: se l'hai posizionato sulla tua mappa, devi acquistarlo di nuovo o correggerlo modificando le informazioni in FarmingSimulator2019/savegame§§/items.xml. (§§ = numero savegame)
 -a partire dal: modName="FS19_StrawBarn_SellingSpot" filename="$moddir$FS19_StrawBarn_SellingSpot/StrawBarn_SellingSpot(_Dark,White).xml"
@@ -219,6 +204,7 @@ Log delle modifiche 3.0.0.0:
 - Aggiunto il pulsante per le strisce di avvertimento, che ora possono essere disattivate senza usare l'interfaccia utente.
 - Aggiunto il supporto per alcuni Filltype mod.
 - Aggiunto il supporto per MaizePlus.
+- Aggiunto supporto per addon raccolta paglia.
 - Ha reso l'edificio leggermente più grande per renderlo più facile con i grandi rimorchi.
 - Ora è possibile vendere ulteriormente dalla porta, per ribaltabili che si scaricano sollevando il rimorchio.]]></it>
 	</description>
@@ -326,9 +312,7 @@ Log delle modifiche 3.0.0.0:
     </brands>
     <credits><![CDATA[
 ## Contributors
-- Castiga, EDGE Gaming
-## Translations
-- Castiga
+- Castiga, Sebastian
 ## Designers
 - Castiga]]></credits>
 </modDesc>
